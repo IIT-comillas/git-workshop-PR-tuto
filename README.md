@@ -6,3 +6,6 @@ Click on PR button after pushing your new branch.
 
 # Conflict
 This is just to see if we can force a git conflict
+
+# Refs
+github.com
